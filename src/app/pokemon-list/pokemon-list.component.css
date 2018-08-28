@@ -1,0 +1,7 @@
+:host {
+    width: 1000px;
+}
+
+.pokemon-item {
+    cursor: pointer;
+}
